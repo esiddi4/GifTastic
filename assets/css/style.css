@@ -1,0 +1,43 @@
+.container {
+	margin-top: 10px;
+}
+
+#gifs-appear-here {
+	display: inline-block;
+	width: 80%;
+	float: left;
+}
+
+#add-buttons {
+	display: inline-block;
+	width: 15%;
+	float: right;
+}
+
+#buttons {
+	margin-left: 5px;
+}
+
+
+button, #add-reaction {
+	clear: both;
+	background-color: #53cec3;
+	color: white;
+	margin-right: 5px;
+	border-radius: 3px;
+}
+
+span {
+	display: inline-block;
+	margin: 5px;
+}
+
+label {
+	font-size: 15px;
+	font-family: Arial;
+	color: grey;
+}
+
+p {
+	margin: 5px 0;
+}
